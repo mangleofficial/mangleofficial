@@ -27,13 +27,13 @@
 </p>
 
 <p align="center">
- ${\textsf{\color{#}""}}$
+ ${\textsf{\color{#FF69B4}"Haru . Yuri . Bassie . Mangle ."}}$
 </p>
 <p align="center">
- ${\textsf{\color{#}""}}$
+ ${\textsf{\color{#F33A6A}"19 . She / her . Panromantic . Asexual ."}}$
 </p>
 <p align="center">
- ${\textsf{\color{#}""}}$
+ ${\textsf{\color{#E37383}"AuDHD . OCD . Anixety . Heavy overthinker ."}}$
 </p>
 
 <p align="center">
@@ -41,13 +41,13 @@
 </p>
 
 <p align="center">
- ${\textsf{\color{#}""}}$
+ ${\textsf{\color{#FF69B4}"Mangle x Daycare Attendant enthusiast ."}}$
 </p>
 <p align="center">
- ${\textsf{\color{#}""}}$
+ ${\textsf{\color{#F33A6A}"Mangle Fictkin . Doubles free to int ."}}$
 </p>
 <p align="center">
- ${\textsf{\color{#}""}}$
+ ${\textsf{\color{#E37383}"Daycare attendant Yume . Doubies dniuf . Kins + comfs can int ."}}$
 </p>
 
 <p align="center">
@@ -55,13 +55,13 @@
 </p>
 
 <p align="center">
- ${\textsf{\color{#}""}}$
+ ${\textsf{\color{#FF69B4}"FNaF . CRK . Hoyoverse free to int ."}}$
 </p>
 <p align="center">
- ${\textsf{\color{#}""}}$
+ ${\textsf{\color{#F33A6A}"Dandys world and DDLC dni unless friends ."}}$
 </p>
 <p align="center">
- ${\textsf{\color{#}""}}$
+ ${\textsf{\color{#E37383}"TFC . Forsaken . Hellaverse . Adult shows . under 15 dni ."}}$
 </p>
 
 <p align="center">
