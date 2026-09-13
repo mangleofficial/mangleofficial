@@ -30,7 +30,7 @@
  ${\textsf{\color{#FF69B4}"Haru . Bassie . Mangle ."}}$
 </p>
 <p align="center">
- ${\textsf{\color{#F33A6A}"20 . She / her . Panromantic . Demisexuall ."}}$
+ ${\textsf{\color{#F33A6A}"20 . She / her . Aroace ."}}$
 </p>
 <p align="center">
  ${\textsf{\color{#E37383}"AuDHD . OCD . Anixety . Heavy overthinker ."}}$
