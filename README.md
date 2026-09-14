@@ -23,11 +23,21 @@
 </p>
 
 <p align="center">
+ ${\textsf{\color{#FF10F0}"I tend to act indifferent ."}}$
+</p>
+<p align="center">
+ ${\textsf{\color{#FF10F0}"Or quiet . This isnt personal ."}}$
+</p>
+<p align="center">
+ ${\textsf{\color{#FF10F0}"If the problem is you, I Will tell you ."}}$
+</p>
+
+<p align="center">
   <img width="200" src="https://github.com/mangleofficial/mangleofficial/blob/9a8e20d0b9c49761df2d3c2f0b43cd193d24b82f/9d58aa28ea7b595123d090926bcb046ca4db98a9.gifv.gif">
 </p>
 
 <p align="center">
- ${\textsf{\color{#FF69B4}"Haru . Bassie . Flutter . Mangle ."}}$
+ ${\textsf{\color{#FF69B4}"Call me Mangle ."}}$
 </p>
 <p align="center">
  ${\textsf{\color{#F33A6A}"20 . She / her . Aroace ."}}$
