@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
- ${\textsf{\color{#FF69B4}"Haru . Bassie . Mangle ."}}$
+ ${\textsf{\color{#FF69B4}"Haru . Bassie . Flutter . Mangle ."}}$
 </p>
 <p align="center">
  ${\textsf{\color{#F33A6A}"20 . She / her . Aroace ."}}$
