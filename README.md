@@ -53,7 +53,7 @@
  ${\textsf{\color{#770737}Daycare attendant yume .}}$
 </p>
 <p align="center">
- ${\textsf{\color{#E30B5C}Alters . I'm the best one of the four ~ .}}$
+ ${\textsf{\color{#E30B5C}Mangle Alter . I'm the best one of the four ~ .}}$
 </p>
 <p align="center">
  ${\textsf{\color{#953553}Interact with caution always with me .}}$
