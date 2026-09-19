@@ -33,7 +33,7 @@
 </p>
 
 <p align="Left">
- ${\textsf{\color{#770737}Mangle . Haru . Bassie . Flutter .}}$
+ ${\textsf{\color{#770737}Mangle . Haru . Bassie . Varesa .}}$
 </p>
 <p align="Left">
  ${\textsf{\color{#E30B5C}Audhd . DID . OCD . Dyslexia . Anixety .}}$
